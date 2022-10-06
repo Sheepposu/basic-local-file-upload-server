@@ -1,0 +1,22 @@
+body {
+    background: #323232;
+}
+
+#videoElement {
+	background-color: #666;
+}
+
+#showButton {
+    width: 100px;
+    height: 70px;
+    background-color: red;
+    border-radius: 5px;
+}
+
+.container {
+   margin: 0px 100px;
+}
+
+.text {
+    color: #ffffff;
+}
